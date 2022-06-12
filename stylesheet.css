@@ -1,0 +1,105 @@
+.center{
+    text-align: center;
+    
+}
+.links {
+    text-align: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+
+input[type="submit"]{
+    border: 1px solid #303134;
+    border-radius: 4px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+#small_image{
+    text-align: left;
+    width: 100px;
+    padding-bottom: 20px;
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+.space{
+    
+    width: 100%;
+    clear: both;
+}
+
+#buttt{
+    -webkit-user-select:none;
+    user-select:none;
+    line-height:100%;
+    height:30px;
+    min-width:120px;
+    color: white;
+    background-color: blue;
+}
+.pos_input{
+    display: inline-block;
+   vertical-align: middle;
+   width: 600px
+}
+
+.info{
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.outerdiv
+{
+
+    margin-left: 20px;
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    color: #222;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+
+}
+
+#marg{
+    margin-left: 20px;
+    display:block;
+}
+#ranging
+{
+    display: inline-block;
+    width: 8%;
+    height: 42px;
+    color: #222;
+    vertical-align: middle;
+    clear: both;
+
+}
+
+.pos_input2{
+    display: inline-block;
+   vertical-align: middle;
+   width: 280px;
+}
+
+
+#google_image
+{
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    position: absolute;
+    left: 215px;
+    bottom: 0;
+    white-space: nowrap;
+}
